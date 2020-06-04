@@ -1,0 +1,15 @@
+{
+  "name": "discord-cleverbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Miguel Arenas Villalobos",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "cleverbot-free": "^1.0.3",
+    "discord.js": "^12.2.0"
+  }
+}
